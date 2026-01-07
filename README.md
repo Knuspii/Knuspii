@@ -1,5 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=knuspii&color=green&style=for-the-badge)
 
+My best Software has:\
+[![Download](https://img.shields.io/github/downloads/Knuspii/crunchycleaner/total?color=green)](https://github.com/Knuspii/crunchycleaner/releases) & [![Star](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social)](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social)
+
+My best Addon/Mod has:\
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/2447510626) & ![Steam Favorites](https://img.shields.io/steam/favorites/2447510626)
+
 ## Languages I use:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
