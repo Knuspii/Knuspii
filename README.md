@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=knuspii&color=green&style=for-the-badge)
 
-## My Projects
+## My Projects:
 
 I made [CrunchyCleaner](https://github.com/Knuspii/CrunchyCleaner) [![Download](https://img.shields.io/github/downloads/Knuspii/crunchycleaner/total?color=green)](https://github.com/Knuspii/crunchycleaner/releases) [![Star](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social)](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social)
 
