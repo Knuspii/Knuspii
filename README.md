@@ -4,11 +4,11 @@
 
 ### 🚀 My Projects
 
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| [**CrunchyCleaner**](https://github.com/Knuspii/CrunchyCleaner) | Software cache cleanup tool for Windows & Linux. | [![Download](https://img.shields.io/github/downloads/Knuspii/crunchycleaner/total?color=green)](https://github.com/Knuspii/crunchycleaner/releases) [![Star](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social)](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social) |
-| [**JunkLauncher**](https://github.com/Knuspii/JunkLauncher) | Garry's Mod Addon (Weapon SWEP) | ![Steam](https://img.shields.io/steam/subscriptions/2447510626) ![Steam Favorites](https://img.shields.io/steam/favorites/2447510626) |
-| [**NixOS Config**](https://github.com/Knuspii/nixos-kde) | My personal dotfiles for a KDE-based NixOS setup. | ❄️ Stable |
+| Project | Stats |
+| :--- | :--- |
+| [**CrunchyCleaner**](https://github.com/Knuspii/CrunchyCleaner) | [![Download](https://img.shields.io/github/downloads/Knuspii/crunchycleaner/total?color=green)](https://github.com/Knuspii/crunchycleaner/releases) [![Star](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social)](https://img.shields.io/github/stars/knuspii/crunchycleaner?style=social) |
+| [**JunkLauncher**](https://github.com/Knuspii/JunkLauncher) | ![Steam](https://img.shields.io/steam/subscriptions/2447510626) ![Steam Favorites](https://img.shields.io/steam/favorites/2447510626) |
+| [**NixOS Config**](https://github.com/Knuspii/nixos-kde) | Stable |
 
 ---
 
