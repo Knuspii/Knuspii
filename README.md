@@ -15,15 +15,12 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Languages & Tools
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=golang,javascript,lua,bash,html,css,yaml&titles=true)
 
-#### Languages
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,podman,nginx,systemd&titles=true)
 
-#### Operating Systems
+### 🛠 Operating Systems
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
