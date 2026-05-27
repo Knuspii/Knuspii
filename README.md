@@ -2,8 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=knuspii&color=00BB00&style=for-the-badge" alt="knuspii" />
 </div>
 
-![test](https://github-profile-trophy.vercel.app/?username=knuspii&no-bg=true&title=Stars,Commits)
-
 ### 🚀 My Projects
 
 | Project | Stats |
