@@ -17,7 +17,7 @@
 ### 🛠 Languages & Tools
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=golang,javascript,lua,bash,html,css,yaml&titles=true)
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,podman,nginx,systemd&titles=true)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=docker,podman,nginx,caddy,systemd&titles=true)
 
 ### 🛠 Operating Systems
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
